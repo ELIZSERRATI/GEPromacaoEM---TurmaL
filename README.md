@@ -1,4 +1,4 @@
-# GEPromacaoEM---TurmaL
+# GEPromacaoEM-TurmaL
 # ELIZANGELA BEATRIZ SERRATI SZYDLOSKI
 ## Sou professora de Biologia e esse ano também de Pensamento Computacional
 - atuo no município de Santo Antonio do Sudoeste
